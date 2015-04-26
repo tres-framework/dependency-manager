@@ -1,0 +1,11 @@
+{
+    "name": "tres-framework/dependency-manager",
+    "description": "Easily manage your dependencies.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ped zed",
+            "email": "ped@tresframework.com"
+        }
+    ]
+}
